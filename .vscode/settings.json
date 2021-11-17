@@ -20,7 +20,7 @@
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
   "pasteImage.path": "${projectRoot}/attachments",
-  "pasteImage.showFilePathConfirmInputBox": true,
+  "pasteImage.showFilePathConfirmInputBox": false,
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
